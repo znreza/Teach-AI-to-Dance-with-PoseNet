@@ -12,3 +12,7 @@ I have modified the codes to enable the following
 5) Canvas is being recorded and saved as .mp4!
 
 The input video, output video and background image can be found in 'video' directory.
+
+Here goes a short demo for you.
+
+![Demo](video/kiki2.gif)
