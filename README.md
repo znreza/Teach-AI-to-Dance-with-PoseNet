@@ -7,7 +7,7 @@ I have modified the codes to enable the following
 
 1) Loads a pre-trained PoseNet model 
 2) Run PoseNet model on any video saved on computer
-3) Detects 16 set of keypoints from sixteen parts of the human body
+3) Detects 16 set of keypoints from sixteen parts of the human body from the video
 4) Draws the keypoints on Javascript Canvas on top of user selected background image
 5) Canvas is being recorded and saved as .mp4!
 
